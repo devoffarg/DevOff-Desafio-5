@@ -1,21 +1,37 @@
 ![](https://static-cdn.jtvnw.net/jtv_user_pictures/fb425ddf-5e67-4c84-9210-8065809675f7-profile_banner-480.png)
-# Desafío [número] - [fecha]
+# Torneo 1 - Desafío 1 - 08/11/2020
 
-[Descripción de desafío]
+¡Vuelve Dev Off! En esta primera ronda del nuevo formato, crearemos el frontend de un explorador de pokémones. Como inspiración, vamos a tomar el diseño realizado en 2019 por Saepul Nahwan:
+
+![](https://cdn.dribbble.com/users/1171520/screenshots/6545819/dribbble.png)
+
+En particular, nos vamos a enfocar en estas tres pantallas:
+
+![](https://cdn.dribbble.com/users/1171520/screenshots/6540871/pokedex2.png)
+
+Hay vistas detalle del diseño en su perfil de Instagram [aquí](https://www.instagram.com/p/Bx_QWxThmmb/?utm_source=ig_web_copy_link) y un ejemplo de animaciones que se pueden implementar [aquí](https://www.instagram.com/p/ByElEIABvoj/?utm_source=ig_web_copy_link).
+
+Incluimos en este repositorio una [spritesheet](./pokespritesheet.png) (una imagen que contiene múltiples imágenes en una grilla) que podremos utilizar para agregar pokemones al proyecto.
 
 ## Condiciones del desafío
 
-⛔ Algo que NO se puede hacer
+⛔ No hay implementación de backend en este proyecto, ni hace falta que estén todas las pantallas de la aplicación según el diseño.
 
-✅ Algo que se puede hacer
+⛔ No es necesario crear una vista desktop de la aplicación, ya como buena pokedex, nos gusta que sea portable. Todo el diseño será mobile-first.
+
+✅ Podrás usar cualquier framework para resolver el desafío, ya sea de CSS o JavaScript.
 
 ## 📚 Herramientas de consulta
 
 Podrás utilizar cualquier herramienta de búsqueda que necesites (amamos buscar en Google y leer Stack Overflow <3).
 
+Dejamos también un enlace sobre [cómo utilizar spritesheets con CSS](https://uniwebsidad.com/libros/css-avanzado/capitulo-1/rollovers-y-sprites).
+
 ## ⏳ Tiempo
 
-Tendrás **1 hora** para resolver el desafío.
+Para participar del torneo en vivo, tendrás **hasta el 13/11/2020 inclusive** para resolver el desafío.
+
+Si estás participando como desafío personal, fuera del torneo, el tiempo recomendado del desafío es de hasta 5 días.
 
 ## 🤔 ¿Cómo presento mi código?
 
@@ -33,11 +49,11 @@ git clone https://github.com/[TU_ALIAS]/DevOff-Desafio-[NUMERO]
 
 También podés utilizar GitHub Desktop, tu IDE favorito, lo que gustes.
 
-Cuando finalices la resolución del desafío, no olvides subir todos tus cambios usando `git push` o el equivalente que ofrezca tu cliente de Git. Envianos por el chat de la transmisión o por DM a la cuenta de Twitter de DevOff Argentina el link a tu repositorio.
+Cuando tu desafío esté listo, agrega la etiqueta `devoff-desafio-completado` a tu repositorio, siguiendo [estos pasos](https://docs.github.com/es/free-pro-team@latest/github/administering-a-repository/classifying-your-repository-with-topics#adding-topics-to-your-repository) o agrega en tu archivo `README.md` un texto que diga `¡Este desafío está terminado!`.
 
 ### Si no tenés una cuenta en GitHub
 
-[Podés hacer clic aquí y mágicamente se descargará un archivo comprimido con todo lo que contiene este repositorio](https://github.com/devoffarg/DevOff-Desafio-[NUMERO]/archive/master.zip).
+[Podés hacer clic aquí y mágicamente se descargará un archivo comprimido con todo lo que contiene este repositorio](https://github.com/devoffarg/DevOff-T02-Torneo1-Desafio1/archive/master.zip).
 
 Cuando finalices la resolución del desafío, envianos un archivo ZIP con todo tu trabajo a través de [WeTransfer](https://wetransfer.com/) o una carpeta compartida en Google Drive.
 
