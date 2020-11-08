@@ -1,7 +1,7 @@
 ![](https://static-cdn.jtvnw.net/jtv_user_pictures/fb425ddf-5e67-4c84-9210-8065809675f7-profile_banner-480.png)
-# Torneo 1 - Desafío 1 - 08/11/2020
+# Desafío 5 - 08/11/2020
 
-¡Vuelve Dev Off! En esta primera ronda del nuevo formato, crearemos el frontend de un explorador de pokémones. Como inspiración, vamos a tomar el diseño realizado en 2019 por Saepul Nahwan:
+Vamos a crear el frontend de un explorador de pokémones. Como inspiración, vamos a tomar el diseño realizado en 2019 por Saepul Nahwan:
 
 ![](https://cdn.dribbble.com/users/1171520/screenshots/6545819/dribbble.png)
 
@@ -53,7 +53,7 @@ Cuando tu desafío esté listo, agrega la etiqueta `devoff-desafio-completado` a
 
 ### Si no tenés una cuenta en GitHub
 
-[Podés hacer clic aquí y mágicamente se descargará un archivo comprimido con todo lo que contiene este repositorio](https://github.com/devoffarg/DevOff-T02-Torneo1-Desafio1/archive/master.zip).
+[Podés hacer clic aquí y mágicamente se descargará un archivo comprimido con todo lo que contiene este repositorio](https://github.com/devoffarg/DevOff-Desafio-5/archive/master.zip).
 
 Cuando finalices la resolución del desafío, envianos un archivo ZIP con todo tu trabajo a través de [WeTransfer](https://wetransfer.com/) o una carpeta compartida en Google Drive.
 
