@@ -21,6 +21,17 @@ Incluimos en este repositorio una [spritesheet](./pokespritesheet.png) (una imag
 
 ✅ Podrás usar cualquier framework para resolver el desafío, ya sea de CSS o JavaScript.
 
+✅ ¡Animate a experimentar! Hay muchísimas cosas que podrás aplicar a este desafío con la cantidad de elementos que hay en pantallas.
+
+✅ :new: **¡Podrás trabajar individualmente o podrán presentar el desafío en pareja!**
+
+## Algunas preguntas para explorar
+
+- ¿Es posible crear un sistema de diseño con componentes?
+- ¿Se pueden estandarizar los colores de alguna manera?
+- ¿Cómo estructuramos la información de un pokemon para que podamos renderizarla en componentes?
+- ¿Qué oportunidades de animación hay?
+
 ## 📚 Herramientas de consulta
 
 Podrás utilizar cualquier herramienta de búsqueda que necesites (amamos buscar en Google y leer Stack Overflow <3).
@@ -50,6 +61,8 @@ git clone https://github.com/[TU_ALIAS]/DevOff-Desafio-[NUMERO]
 También podés utilizar GitHub Desktop, tu IDE favorito, lo que gustes.
 
 Cuando tu desafío esté listo, agrega la etiqueta `devoff-desafio-completado` a tu repositorio, siguiendo [estos pasos](https://docs.github.com/es/free-pro-team@latest/github/administering-a-repository/classifying-your-repository-with-topics#adding-topics-to-your-repository) o agrega en tu archivo `README.md` un texto que diga `¡Este desafío está terminado!`.
+
+**No olvides indicarnos si estás presentando el proyecto de manera individual o con otra persona.** Podrás hacer esto agregando los nombres de las personas participantes en un archivo `HUMANS.txt` [siguiendo este formato](http://humanstxt.org/ES/Standard.html).
 
 ### Si no tenés una cuenta en GitHub
 
