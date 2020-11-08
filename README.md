@@ -55,7 +55,7 @@ Cuando tu desafío esté listo, agrega la etiqueta `devoff-desafio-completado` a
 
 [Podés hacer clic aquí y mágicamente se descargará un archivo comprimido con todo lo que contiene este repositorio](https://github.com/devoffarg/DevOff-Desafio-5/archive/master.zip).
 
-Cuando finalices la resolución del desafío, envianos un archivo ZIP con todo tu trabajo a través de [WeTransfer](https://wetransfer.com/) o una carpeta compartida en Google Drive.
+Cuando finalices la resolución del desafío, envianos un archivo ZIP con todo tu trabajo a través de [WeTransfer](https://wetransfer.com/) o una carpeta compartida en Google Drive. Luego, envíanos el link a devoff@codear.org o por Twitter a @DevOffArg.
 
 ## ⚖ Código de conducta
 
