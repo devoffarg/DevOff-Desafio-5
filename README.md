@@ -68,7 +68,6 @@ Ante cualquier consulta, podrás recurrir a nuestro [equipo de moderación](http
 ### Jurados
 
 - ¡Gracias a [Gonzalo Pozzo](https://twitter.com/goncy) y [Magalí Domínguez](https://twitter.com/printmaga) por ser nuestros jurados!
-- ¡Un agradecimiento especial a [Nombre del jurado invitado](https://twitter.com/@JuradoInvitado), el jurado invitado de esta edición!
 
 ### Organizaciones aliadas
 
