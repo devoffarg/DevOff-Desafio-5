@@ -11,7 +11,7 @@ En particular, nos vamos a enfocar en estas tres pantallas:
 
 Hay vistas detalle del diseño en su perfil de Instagram [aquí](https://www.instagram.com/p/Bx_QWxThmmb/?utm_source=ig_web_copy_link) y un ejemplo de animaciones que se pueden implementar [aquí](https://www.instagram.com/p/ByElEIABvoj/?utm_source=ig_web_copy_link).
 
-Incluimos en este repositorio una [spritesheet](./pokespritesheet.png) (una imagen que contiene múltiples imágenes en una grilla) que podremos utilizar para agregar pokemones al proyecto.
+Incluimos en este repositorio una [spritesheet](./pokemon_b_w_sprite_sheet__resource__by_petuniabubbles_d54otbx.png) (una imagen que contiene múltiples imágenes en una grilla) que podremos utilizar para agregar pokemones al proyecto.
 
 ## Condiciones del desafío
 
